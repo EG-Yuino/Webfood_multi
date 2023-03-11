@@ -5,16 +5,20 @@
 /src/Services/APIwebfood/bin/
 /src/Services/APIwebfood/obj/
 
-# ignore file build and run API service
-/src/Services/APIwebfood.Sreach/bin/
-/src/Services/APIwebfood.Sreach/obk/
-
-
-# ignore file build and run webstatus
-src/WebStatus/bin/
-src/WebStatus/obj/
-
-# ignore .vs
-.vs
-
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.vs
 *.sln
+
+# Ignore Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# SQL Server files
+App_Data/*.mdf
+App_Data/*.ldf
