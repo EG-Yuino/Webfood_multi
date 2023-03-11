@@ -1,0 +1,12 @@
+S:\Webfood_multi\src\Services\APIglobal\bin\Debug\net6.0\APIglobal.deps.json
+S:\Webfood_multi\src\Services\APIglobal\bin\Debug\net6.0\APIglobal.dll
+S:\Webfood_multi\src\Services\APIglobal\bin\Debug\net6.0\APIglobal.pdb
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\APIglobal.csproj.AssemblyReference.cache
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\APIglobal.GeneratedMSBuildEditorConfig.editorconfig
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\APIglobal.AssemblyInfoInputs.cache
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\APIglobal.AssemblyInfo.cs
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\APIglobal.csproj.CoreCompileInputs.cache
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\APIglobal.dll
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\refint\APIglobal.dll
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\APIglobal.pdb
+S:\Webfood_multi\src\Services\APIglobal\obj\Debug\net6.0\ref\APIglobal.dll

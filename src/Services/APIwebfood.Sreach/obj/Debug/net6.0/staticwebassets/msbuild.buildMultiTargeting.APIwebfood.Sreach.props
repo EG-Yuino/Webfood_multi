@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIwebfood.Sreach.props" />
+</Project>

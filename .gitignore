@@ -1,0 +1,18 @@
+# ignore file/folder
+
+
+# ignore file build and run webAPI-Client
+/src/Services/APIwebfood/bin/
+/src/Services/APIwebfood/obj/
+
+# ignore file build and run API service
+/src/Services/APIwebfood.Sreach/bin/
+/src/Services/APIwebfood.Sreach/obk/
+
+
+# ignore file build and run webstatus
+src/WebStatus/bin/
+src/WebStatus/obj/
+
+# ignore .vs
+.vs
