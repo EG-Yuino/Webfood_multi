@@ -16,3 +16,5 @@ src/WebStatus/obj/
 
 # ignore .vs
 .vs
+
+*.sln
