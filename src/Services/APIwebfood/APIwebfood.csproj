@@ -19,8 +19,4 @@
 
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\APIglobal\APIglobal.csproj" />
-  </ItemGroup>
-
 </Project>

@@ -1,0 +1,19 @@
+global using System;
+global using System.Collections.Generic;
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.Linq;
+global using System.Net.Http;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using System.Data;
+global using System.Text;
+
+global using Appglobal.Base;
+global using APIglobal.Base.BaseInterface;
+//global using APIglobal.Base.BaseInterface;
+global using Appglobal.Commons;
+global using Appglobal.DBContext;
+//global using Appglobal.Filters;
+//global using Appglobal.Models;
+//global using Appglobal.Services;
