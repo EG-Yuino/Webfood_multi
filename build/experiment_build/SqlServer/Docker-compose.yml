@@ -1,0 +1,11 @@
+version: '3.5'
+services:
+  App_NienTDD:
+
+  Database_NienTDD:
+    container_name: Sql_NienTDD
+    build: 
+      context: ./Sql
+      dockerfile: Dockerfile
+    environment:
+        - name=value
